@@ -55,7 +55,7 @@ android {
 
     defaultConfig {
         applicationId = "com.streamvault.app"
-        minSdk = 25
+        minSdk = 24
         targetSdk = 36
         versionCode = 16
         versionName = "1.0.15"
